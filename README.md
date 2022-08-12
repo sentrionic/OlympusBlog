@@ -11,11 +11,15 @@
 - [Spring](https://github.com/sentrionic/OlympusSpring)
 - [Ktor](https://github.com/sentrionic/OlympusKtor)
 - [Gin](https://github.com/sentrionic/OlympusGin)
+- [Phoenix](https://github.com/sentrionic/OlympusPhoenix) (Unfinished)
 
 **Frontend**
 
 - [NextJS](https://github.com/sentrionic/OlympusClient)
-- [Android](https://github.com/sentrionic/OlympusAndroid)
+
+**Mobile**
+
+- [Android](https://github.com/sentrionic/OlympusAndroid) (Unfinished)
 
 ## Specification
 
