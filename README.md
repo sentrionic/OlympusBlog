@@ -8,10 +8,11 @@
 
 - [NestJS](https://github.com/sentrionic/OlympusNest)
 - [.NET](https://github.com/sentrionic/OlympusNET)
-- [Spring](https://github.com/sentrionic/OlympusSpring)
+- [Spring Kotlin Edition](https://github.com/sentrionic/OlympusSpring)
 - [Ktor](https://github.com/sentrionic/OlympusKtor)
 - [Gin](https://github.com/sentrionic/OlympusGin)
 - [Phoenix](https://github.com/sentrionic/OlympusPhoenix) (Unfinished)
+- [Spring Java Edition](https://github.com/sentrionic/OlympusBlogSpring)
 
 **Frontend**
 
